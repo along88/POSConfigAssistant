@@ -1,0 +1,18 @@
+c:\users\alfred\documents\visual studio 2013\Projects\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Alfred\Documents\Visual Studio 2013\Projects\Test\Test\bin\Debug\Test.exe
+C:\Users\Alfred\Documents\Visual Studio 2013\Projects\Test\Test\bin\Debug\Test.pdb
+C:\Users\Alfred\Documents\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Alfred\Documents\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Alfred\Documents\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.NewList.resources
+C:\Users\Alfred\Documents\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Alfred\Documents\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Alfred\Documents\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.exe
+C:\Users\Alfred\Documents\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.pdb
+C:\Users\Alfred\Documents\Visual Studio 2013\Projects\Test\Test\bin\Debug\ONE-CLICK.COAL 6x .POS CONFIG-GO LIVE CHECKLIST. v2.0.xlsx
+C:\Users\Alfred\Desktop\HUB\Productivity\Programming and Design\Projects\Programs\Visual Studio 2013\Projects\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Alfred\Desktop\HUB\Productivity\Programming and Design\Projects\Programs\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.exe
+C:\Users\Alfred\Desktop\HUB\Productivity\Programming and Design\Projects\Programs\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Alfred\Desktop\HUB\Productivity\Programming and Design\Projects\Programs\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Alfred\Desktop\HUB\Productivity\Programming and Design\Projects\Programs\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.NewList.resources
+C:\Users\Alfred\Desktop\HUB\Productivity\Programming and Design\Projects\Programs\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Alfred\Desktop\HUB\Productivity\Programming and Design\Projects\Programs\Visual Studio 2013\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
